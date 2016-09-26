@@ -8127,8 +8127,7 @@
     "emoji": "🇨🇦"
   , "description": "regional indicator symbol letter c + regional indicator symbol letter a"
   , "aliases": [
-      "ca",
-      "eh"
+      "ca"
     ]
   , "tags": [
       "canada"
@@ -8183,22 +8182,7 @@
   }
 , {
     "aliases": [
-      "mm",
       "mattermost"
-    ]
-  , "tags": [
-    ]
-  }
-, {
-    "aliases": [
-      "basecamp"
-    ]
-  , "tags": [
-    ]
-  }
-, {
-    "aliases": [
-      "basecampy"
     ]
   , "tags": [
     ]
